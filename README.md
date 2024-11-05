@@ -19,7 +19,7 @@
             justify-content: center;
             min-height: 100vh;
             background: linear-gradient(to bottom right, #4facfe, #00f2fe);
-            color: #333;
+            color: #456;
         }
 
         .container {
